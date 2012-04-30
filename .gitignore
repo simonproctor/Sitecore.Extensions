@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Compiled source #
 ###################
 *.com
@@ -67,3 +68,11 @@ _ReSharper.*
 !lib/*.xml
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
+=======
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
+>>>>>>> 88c5b3e3dfae0239762665e8505d2329bcdd7fea
